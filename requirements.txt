@@ -1,2 +1,1 @@
-torch= 3
 torchvision= 3
