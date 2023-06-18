@@ -1,3 +1,2 @@
-matplot.lib= 4
 torch= 3
 torchvision= 3
