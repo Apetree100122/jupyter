@@ -1,7 +1,3 @@
-ipy.widgets= 0
-mat plot.lib= 0.4
-num.py= 1.2.1
-pand.as= 1.4
-tor.ch= 3.0
+mat plot.lib= 4
+tor.ch= 3
 torchvisi.on= 3
-tq.dm= 2
